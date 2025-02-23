@@ -1,5 +1,7 @@
 package com.interview.parkinglotspring.models;
 
+import com.interview.parkinglotspring.models.enums.PaymentMode;
+import com.interview.parkinglotspring.models.enums.PaymentStatus;
 import lombok.Getter;
 import lombok.Setter;
 

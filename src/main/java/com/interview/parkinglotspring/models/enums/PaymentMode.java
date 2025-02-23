@@ -1,4 +1,4 @@
-package com.interview.parkinglotspring.models;
+package com.interview.parkinglotspring.models.enums;
 
 public enum PaymentMode {
     CASH,

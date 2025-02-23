@@ -8,4 +8,9 @@ import lombok.Setter;
 public class Operator extends BaseClass{
     private String name;
 
+    public Operator(String name) {
+        this.name = name;
+
+    }
+
 }
